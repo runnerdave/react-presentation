@@ -1,7 +1,9 @@
-# presentation about ReactJS, created using reveal.js (see below for reveal README)
+# presentation about ReactJS, created using reveal.js (see below for original reveal.js README)
 
 Accessible at: https://speakerdeck.com/runnerdave/my-introduction-to-reactjs
 
+*BELOW is the original reveal.js content:*
+____
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js) <a href="https://slides.com?ref=github"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
 
